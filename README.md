@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://rizalpradanaaa.github.io/my-portofolio/](https://rizalpradanaaa.github.io/my-portofolio/)
+- 👨‍💻 All of my projects are available at [[https://rizalpradanaaa.github.io/my-portofolio/](https://rizalpradanaaa.github.io/my-portofolio/)](https://rizalpradana.vercel.app/)
 
 - 💬 Ask me about **Laravel, React, Express**
 
